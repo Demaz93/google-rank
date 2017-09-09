@@ -1,5 +1,5 @@
 # Google Rank
-Check site's google ranking
+Check domain rank on google.
 
 # Requirements
 This script is created with Python 2.7 because of libraryes.
